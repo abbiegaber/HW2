@@ -1,0 +1,44 @@
+﻿body
+{
+
+    background-color: #CCCCCC;
+    color: #000000;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+.header
+{
+    font-size: xx-large;
+    text-align: center;
+}
+.labelNames
+{
+    padding: inherit;
+    text-align: left;
+    position: relative;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    padding-left: 25px;
+    padding-right: 25px;
+    white-space: pre-wrap;
+    display: inline-block;
+}
+.userInput
+{ 
+    text-align: right;
+    position: relative;
+    display: inline;
+    padding-top: inherit; padding-bottom: inherit; padding-left: 25px; padding-right: 25px;
+    top: 1px;
+    left: 5px;
+    width: 76px;
+}
+
+.Result
+{
+    font-size: large;
+}
